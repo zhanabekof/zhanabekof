@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on [TrustMe](trustme.kz)
 
-- 🌱 I’m currently learning **NestJs**
-
 - 👯 I’m looking to collaborate on [TrustMe](trustme.kz)
-
-- 🤝 I’m looking for help with [TrustMe](trustme.kz)
 
 - 📫 How to reach me **zhanabekof@gmail.com**
 
